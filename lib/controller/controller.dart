@@ -27,8 +27,6 @@ class ItemController extends GetxController{
 
           viewList.add(itemList.elementAt(i));
 
-
-
         }
 
       final list = json.decode(jsondata) as List<dynamic>;
