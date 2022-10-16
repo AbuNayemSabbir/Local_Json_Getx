@@ -1,23 +1,58 @@
 [
   {
-    "name": "Sabbir",
-    "address": "Dhaka Cant."
+  "name": "Sabbir",
+  "address": [{
+    "house_no": "2022",
+    "city": "Dhaka"
 
   },
-  {
-    "name": "Mr. A",
-    "address": "Mohakhali"
+    {
+      "house_no": "2024",
+      "city": "Rajshahi"
 
+    }
+  ]
+},
+  {
+    "name": "Tapu Vai",
+    "address": [{
+      "house_no": "2000",
+      "city": "Rajshahi"
+
+    },
+      {
+        "house_no": "2024",
+        "city": "Rajshahi"
+
+      }
+    ]
+  },
+  {
+    "name": "Mr. X",
+    "address": [{
+      "house_no": "2022",
+      "city": "CTG"
+
+    },
+      {
+        "house_no": "2024",
+        "city": "CTG"
+
+      }
+    ]
   },
   {
     "name": "Mr. B",
-    "address": "Dhaka"
+    "address": [{
+      "house_no": "2000",
+      "city": "Khulna"
 
-  },
-  {
-    "name": "Mr. A",
-    "address": "Dhaka"
+    },
+      {
+        "house_no": "2024",
+        "city": "Khulna"
 
+      }
+    ]
   }
-
 ]
